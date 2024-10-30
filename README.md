@@ -11,7 +11,7 @@ This repo collects papers, docs, codes about 3D Scene Generation for anyone who 
 - [3D Scene Generation](#3D-Scene-Generation)
   - [Scene Synthesis Mehtods](#Scene-Synthesis-Mehtods)
   - [Overall Scene Generation Mehtods](#Overall-Scene-Generation-Mehtods)
-  - [Scene Edditing Mehtods](#Scene-Generation-Mehtods)
+  - [Scene Editting Mehtods](#Scene-Editting-Mehtods)
 
 <!--
 
