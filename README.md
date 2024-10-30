@@ -9,9 +9,9 @@ This repo collects papers, docs, codes about 3D Scene Generation for anyone who 
   - 2
   - 3
 - [3D Scene Generation](#3D-Scene-Generation)
-  - [Scene Synthesis Mehtods](#Scene-Synthesis-Mehtods)
-  - [Overall Scene Generation Mehtods](#Overall-Scene-Generation-Mehtods)
-  - [Scene Editting Mehtods](#Scene-Editting-Mehtods)
+  - [Scene Synthesis Methods](#Scene-Synthesis-Methods)
+  - [Overall Scene Generation Methods](#Overall-Scene-Generation-Methods)
+  - [Scene Editting Methods](#Scene-Editting-Methods)
 
 <!--
 
@@ -33,7 +33,7 @@ This repo collects papers, docs, codes about 3D Scene Generation for anyone who 
 
 ### 3D Scene Generation
 
-#### Scene Synthesis Mehtods
+#### Scene Synthesis Methods
 
 ##### 2015
 
@@ -75,7 +75,7 @@ This repo collects papers, docs, codes about 3D Scene Generation for anyone who 
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_PhyScene_Physically_Interactable_3D_Scene_Synthesis_for_Embodied_AI_CVPR_2024_paper.html)] PhyScene: Physically Interactable 3D Scene Synthesis for Embodied AI [[code](https://github.com/PhyScene/PhyScene/tree/main)]
 - [[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5fba70900a84a8fb755c48ba99420c95-Abstract-Conference.html)] CommonScenes: Generating Commonsense 3D Indoor Scenes with Scene Graph Diffusion [[code](https://github.com/ymxlzgy/commonscenes)]
 
-#### Overall Scene Generation Mehtods
+#### Overall Scene Generation Methods
 
 ##### 2020
 
@@ -173,7 +173,7 @@ This repo collects papers, docs, codes about 3D Scene Generation for anyone who 
 
 - [[arXiv](https://arxiv.org/abs/2408.13711)] SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting [[code](https://github.com/liwrui/SceneDreamer360)]
 
-#### Scene Editting Mehtods
+#### Scene Editting Methods
 
 ##### 2021
 
